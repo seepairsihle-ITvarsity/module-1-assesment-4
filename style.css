@@ -1,0 +1,21 @@
+table{ 
+font-family: helvetica, sans-serif;
+border-collapse: collapse;
+border-width:3px;
+border-style: solid;
+border-color: #2295a7
+}
+
+h1{
+	font-family:impact,Fantasy:
+	font-style:Solid;
+	color: pink;
+}
+th{
+	font-weight:800;
+	background-color:#2536A6;
+	color:#0fAfff;
+}
+	
+
+
