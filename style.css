@@ -1,21 +1,32 @@
-table{ 
-font-family: helvetica, sans-serif;
-border-collapse: collapse;
-border-width:3px;
-border-style: solid;
-border-color: #2295a7
-}
-
 h1{
-	font-family:impact,Fantasy:
-	font-style:Solid;
-	color: pink;
+   font-weight: bold;
+   color: orange;
 }
-th{
-	font-weight:800;
-	background-color:#2536A6;
-	color:#0fAfff;
+
+p{
+   color: coral;
 }
-	
+h1 {
+    font-family: sans-serif;
+}
 
 
+p {
+    font-family: fantasy;
+}
+<style>
+    body {
+        background-color: darkslategrey;
+        color: azure;
+        font-size: 1.1em;
+    }
+    h1 {
+        color: coral;
+    }
+    #intro {
+        font-size: 1.3em;
+    }
+    .colorful {
+        color: orange;
+    }
+</style>
